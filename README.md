@@ -1,4 +1,4 @@
-# Tesi
+# Thesis for my Bacheloe degree in ICT
 
 This is a website created with the framework Vaadin and SpingBoot for my thesis in ICT.
 
